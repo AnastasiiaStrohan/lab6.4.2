@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\lb6.4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1735763B-7EB3-4A41-88ED-C3E2F7E9756A}|UnitTest6.4.2\\UnitTest6.4.2.vcxproj|C:\\Users\\Admin\\source\\repos\\lb6.4.2\\UnitTest6.4.2\\UnitTest6.4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1735763B-7EB3-4A41-88ED-C3E2F7E9756A}|UnitTest6.4.2\\UnitTest6.4.2.vcxproj|solutionrelative:UnitTest6.4.2\\UnitTest6.4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0D2810-B447-4C0A-81E7-0ECF06E72EF3}|lb6.4.2\\lb6.4.2.vcxproj|C:\\Users\\Admin\\source\\repos\\lb6.4.2\\lb6.4.2\\lb6.4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA0D2810-B447-4C0A-81E7-0ECF06E72EF3}|lb6.4.2\\lb6.4.2.vcxproj|solutionrelative:lb6.4.2\\lb6.4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest6.4.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb6.4.2\\UnitTest6.4.2\\UnitTest6.4.2.cpp",
+              "RelativeDocumentMoniker": "UnitTest6.4.2\\UnitTest6.4.2.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb6.4.2\\UnitTest6.4.2\\UnitTest6.4.2.cpp",
+              "RelativeToolTip": "UnitTest6.4.2\\UnitTest6.4.2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T15:44:50.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lb6.4.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\lb6.4.2\\lb6.4.2\\lb6.4.2.cpp",
+              "RelativeDocumentMoniker": "lb6.4.2\\lb6.4.2.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\lb6.4.2\\lb6.4.2\\lb6.4.2.cpp",
+              "RelativeToolTip": "lb6.4.2\\lb6.4.2.cpp",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T15:41:12.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
